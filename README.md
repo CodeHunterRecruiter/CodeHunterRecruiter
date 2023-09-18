@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CodeHunterRecruiter
+- 👀 I'm looking for talented software developers who are eager to kickstart their careers 🚀
+- 📫 How to reach me: seven@personalhaus-expert.de
